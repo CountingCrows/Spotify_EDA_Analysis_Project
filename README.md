@@ -28,3 +28,7 @@ We'll explore the Spotify 2017 dataset from [Kaggle](https://www.kaggle.com/data
 We find out that our dataset is clean. Therefore, we just need to check the types of the data and make sure we have the columns we need to do our analysis.
 
 ## Analysis
+First, we want to know the Top 5 most popular artists of Spotify in 2017. We make a bar plot by grouping by the "artist" and sorting the values by it's "song_title".
+![1](https://github.com/CountingCrows/Spotify_EDA_Analysis_Project/assets/85608120/7af5d06b-3627-4652-8d0c-ffe851524ac8)
+We can say that the most popular artist in 2017 based on the songs they had was Drake with a total of 16 top songs, followed by Rick Ross with 13 songs, and Disclosure.
+
